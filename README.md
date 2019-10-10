@@ -1,2 +1,2 @@
 # Hello-World
-First repository 2019
+I know very little c++ and laughable amount of python
